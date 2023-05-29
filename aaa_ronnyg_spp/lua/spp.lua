@@ -8,7 +8,7 @@ WARNING
      A better alternative to this function would be using Entity:SetCollisionGroup( COLLISION_GROUP_WORLD ).
 
 
-and? what are u gonna do about it ? sue me? LOL! fuck off, EnableCollisions() supremacy
+and? what are u gonna do about it ? LOL! 
 ]]
 
 
