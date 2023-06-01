@@ -1,9 +1,6 @@
 # gmod-SPP
 Simple prop protection, more like anti crash. Stops prop cramming by automatically no-colliding props owned by the same owner. Most POWERFUL anti prop-surf ever made - probably.
 
-### MADE FOR A SERVER 
-This was made for Benji's RP. I made it as i went on , and added things i felt was needed. No config file is included obviously because its so simple anyone with half a monkey brain can figure it out. 
-
 ### INSTALLATION
 Put in garrysmod/addons & edit as you see fit
 
